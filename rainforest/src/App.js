@@ -1,5 +1,7 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import MainProducts from './Containers/MainProducts';
+import Products from './Data';
 
 function App() {
   return (
@@ -8,7 +10,7 @@ function App() {
         <h1>Rainforest</h1>
       </header>
       <body>
-
+        <MainProducts products={Products}/>
       </body>
     </div>
   );
