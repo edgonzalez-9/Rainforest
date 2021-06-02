@@ -27,3 +27,5 @@ let Products = [
         ]
     }
 ]
+
+export default Products;
