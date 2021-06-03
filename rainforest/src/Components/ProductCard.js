@@ -2,10 +2,10 @@ import React from 'react';
 
 function ProductCard(props){
     return (
-        <div class="card" style={{width: `18rem;`}}>
-            <img src={props.product.image} class="card-img-top" alt=""/>
-            <div classe="card-body">
-                <p class="card-title">{props.product.name}</p>
+        <div className="card" style={{width: `20vw`, margin: `10px`}}>
+            <img src={props.product.image} className="card-img-top" alt=""/>
+            <div className="card-body">
+                <p className="card-title">{props.product.name}</p>
             </div>
         </div>
     )

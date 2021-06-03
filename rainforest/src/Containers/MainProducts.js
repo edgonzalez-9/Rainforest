@@ -3,8 +3,8 @@ import ProductCard from '../Components/ProductCard';
 
 function MainProducts(props) {
     return (
-        <div>
-            {props.products.map(product => <ProductCard product={product}/>)}
+        <div style={{display: `flex`, justifyContent: `space-around`, margin: `10px`}}>
+            {props.products.map(product => <ProductCard product={product} key={product.name}/>)}
         </div>
     )
 }

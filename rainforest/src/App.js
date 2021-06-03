@@ -9,9 +9,9 @@ function App() {
       <header className="App-header">
         <h1>Rainforest</h1>
       </header>
-      <body>
+      <div style={{height: `90vh`}}>
         <MainProducts products={Products}/>
-      </body>
+      </div>
     </div>
   );
 }
