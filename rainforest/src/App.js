@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Rainforest</h1>
+        <h1 style={{margin: `20px`}}>Rainforest</h1>
       </header>
       <div style={{height: `90vh`}}>
         <MainProducts products={Products}/>
