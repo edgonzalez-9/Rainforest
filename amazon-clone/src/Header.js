@@ -8,7 +8,6 @@ function Header() {
     return (
         <nav className="header">
 
-            {/* Amazon Link */}
             <Link to="/">
                 <img 
                     className="header__logo" 
@@ -17,16 +16,13 @@ function Header() {
                 />
             </Link>
 
-            {/* Search Box */}
             <div className="header__search">
                 <input type="text" className="header__searchInput" />
                 <SearchIcon className="header__searchIcon" />
             </div>
 
-            {/* 3 Links */}
             <div className="header__nav" >
 
-                {/* 1st Link */}
                 <Link to="/login" className="header__link">
                     <div className="header__option">
                         <span className="header__optionLineOne">Hello Ed</span>
@@ -34,7 +30,6 @@ function Header() {
                     </div>
                 </Link>
 
-                {/* 2nd Link */}
                 <Link to="/" className="header__link">
                     <div className="header__option">
                         <span className="header__optionLineOne">Returns</span>
@@ -42,7 +37,6 @@ function Header() {
                     </div>
                 </Link>
 
-                {/* 3rd Link */}
                 <Link to="/" className="header__link">
                     <div className="header__option">
                         <span className="header__optionLineOne">Your</span>
@@ -50,13 +44,10 @@ function Header() {
                     </div>
                 </Link>
 
-                {/* 4th Link */}
                 <Link to="/checkout" className="header__link">
                     <div className="header__optionBasket">
-                        {/* Shopping Cart Icon */}
                         <ShoppingBasketIcon />
-                        {/* Number of items in the basket */}
-                        <span>0</span>
+                        <span className="header__option LineTwo header_basketCount">0</span>
                     </div>
                 </Link>
             </div>
