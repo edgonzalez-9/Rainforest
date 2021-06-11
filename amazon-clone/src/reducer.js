@@ -10,7 +10,7 @@ const reducer = (state, action) => {
             return { 
                 ...state, 
                 basket: [...state.basket, action.item] 
-            };
+            }  
             break;
         case 'REMOVE_FROM_BASKET':
             // Logic for removing from basket
