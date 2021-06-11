@@ -12,14 +12,14 @@ function Home() {
             />
             <div className="home__row">
                 <Product
-                    id="123456789"
+                    id="1"
                     title="Way of Kings"
                     price={19.99}
                     rating={5}
                     image="https://images-na.ssl-images-amazon.com/images/I/91KzZWpgmyL.jpg"
                 />
                 <Product
-                    id="123456789"
+                    id="2"
                     title="Mario Kart 8 Deluxe"
                     price={49.99}
                     rating={5}
@@ -29,21 +29,21 @@ function Home() {
 
             <div className="home__row">
                 <Product
-                    id="123456789"
+                    id="3"
                     title="KitchenAid KSMMGA Metal Food Grinder Attachment, 2.5 lb, Silver"
                     price={79.99}
                     rating={5}
                     image="https://images-na.ssl-images-amazon.com/images/I/81cPC8tWkpL._AC_SL1500_.jpg"
                 />
                 <Product
-                    id="123456789"
+                    id="4"
                     title="Ring Video Doorbell Wired"
                     price={59.99}
                     rating={5}
                     image="https://images-na.ssl-images-amazon.com/images/I/518CV1NgeZL._SL1000_.jpg"
                 />
                 <Product
-                    id="123456789"
+                    id="5"
                     title="Sauder North Avenue Cart, Smoked Oak finish"
                     price={89.99}
                     rating={5}
@@ -53,7 +53,7 @@ function Home() {
 
             <div className="home__row">
                 <Product
-                    id="123456789"
+                    id="6"
                     title="Greenies Feline Natural Dental Care Cat Treats, Chicken Flavor, All Bag Sizes"
                     price={19.99}
                     rating={5}
