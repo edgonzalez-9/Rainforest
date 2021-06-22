@@ -13,3 +13,10 @@
     padding-top: 10px;
     margin-left: 10px;
 }
+
+.checkout {
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+}
