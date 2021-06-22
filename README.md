@@ -4,4 +4,4 @@ Rainforest is your one stop shop for online shopping. With a vast selection of p
 
 I will be following a tutorial I found online to do this. 
 
-Project work is now being done inside amazon-clone, not rainforest.
+Will try to finish the project today/tomorrow.
