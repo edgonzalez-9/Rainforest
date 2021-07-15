@@ -73,3 +73,4 @@ Making some quick edits to create commits.
 Really need to MAKE more time to code. 
 Gonna finish the amazon app and update my resume. 
 Hopefully tomorrow my papers will come in. 
+I will keep hoping so that I can get this job and move on with my life.
