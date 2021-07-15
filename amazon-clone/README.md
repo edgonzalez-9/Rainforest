@@ -68,11 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-Making some quick edits to create commits. 
-Really need to MAKE more time to code. 
-Gonna finish the amazon app and update my resume. 
-Hopefully tomorrow my papers will come in. 
-I will keep hoping so that I can get this job and move on with my life.
-I CAN DO THIS!
-I can definitely do this. 
