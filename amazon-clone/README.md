@@ -72,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Making some quick edits to create commits. 
 Really need to MAKE more time to code. 
 Gonna finish the amazon app and update my resume. 
+Hopefully tomorrow my papers will come in. 
