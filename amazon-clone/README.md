@@ -80,3 +80,6 @@ ADDING A FEW EXTRA COMMNENTS.
 
 
 GOtta wake up early tomoorw to get stuff done.
+
+
+AHHHHH I WASTED ALL OF TODAY!
