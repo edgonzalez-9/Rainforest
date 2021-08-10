@@ -68,18 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-Dummy commit to get me started. 
-
-Second Dummy commit to get the streak started. LET's GO!
-THIRD DUMMY COMMIT WE IN THERE!!!
-
-AHHHH THIS IS A LATE COMMIT.
-
-
-ADDING A FEW EXTRA COMMNENTS.
-
-
-GOtta wake up early tomoorw to get stuff done.
-
-
-AHHHHH I WASTED ALL OF TODAY!
