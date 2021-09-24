@@ -73,3 +73,4 @@ I will definitely get some coding done.
 Maybe do a game or something
 Life before death
 Strenght before weakness
+Journey before destination, you bastard.
