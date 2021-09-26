@@ -2,6 +2,4 @@
 
 Rainforest is your one stop shop for online shopping. With a vast selection of products, detailed descriptions, customer certified reviews, and an intuitive shopping experience, Rainforest will make you wonder why you ever shopped anywhere else. 
 
-I will be following a tutorial I found online to do this. 
-
-Will finish project tomorrow and add it to my resume. 
+Still need to upgrade project. 
