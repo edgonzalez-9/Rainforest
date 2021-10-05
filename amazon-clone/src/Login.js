@@ -8,8 +8,8 @@ function Login() {
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
 
-    const login = e => {
-        e.preventDefault();
+    const login = (event) => {
+        event.preventDefault();
 
         auth.signInWithEmailAndPassword(email, password)
             .then((auth) => {
@@ -18,8 +18,8 @@ function Login() {
             .catch( e => alert(e.message))
     }
 
-    const register = e => {
-        e.preventDefault();
+    const register = (event) => {
+        event.preventDefault();
 
         auth.createUserWithEmailAndPassword(email, password)
             .then((auth) => {
