@@ -8,21 +8,19 @@ import Login from './Login';
 import { useStateValue } from './StateProvider';
 import { auth } from "./firebase"
 function App() {
-  const [{ user }, dispatch] = useStateValue();
-
+  const [{ basket, user }, dispatch] = useStateValue();
+  
   useEffect(() => {
     const unsubscribe = auth.onAuthStateChanged((authUser) => {
       if (authUser) {
-        //user is logged in
         dispatch({
-          type: "SET_USER",
-          user: authUser
+          type: 'SET_USER',
+          user: authUser,
         })
       } else {
-        //user is logged out
         dispatch({
-          type: "SET_USER",
-          user: null 
+          type: 'SET_USER',
+          user: null,
         })
       }
     });
@@ -30,9 +28,9 @@ function App() {
     return () => {
       unsubscribe();
     }
-  }, []);
-  
+  }, [])
 
+  
 
   console.log("USER IS >>>", user)
 
