@@ -4,4 +4,5 @@ Rainforest is your one stop shop for online shopping. With a vast selection of p
 
 The curren version of rainforest is an amazon clone I made following a youtube tutorial. 
 
-Nope, not finished.
+
+Still not done oh god
